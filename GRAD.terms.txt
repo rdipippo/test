@@ -1,0 +1,10 @@
+Claims OS (aka Reserves) = Loss BS
+ClaimsPaid = Loss IS
+
+UPR = Prem BS
+FDB Data (aka Ceded, CWP, etc) = Prem IS
+
+T0102 = Section IV
+EIL = SECTION III
+AO = Section II
+EU = Section II
